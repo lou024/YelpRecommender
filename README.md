@@ -4,3 +4,5 @@ Uses Yelp's dataset to provide a recommendation of similar entities. Gives user 
 
 If you want to run/use the YelpRecommender, you'll need the dataset which you can download from the link below!
 https://www.yelp.com/dataset
+
+If you already have the dataset just place it in the same file as 'src' and you'll have a ready program!
