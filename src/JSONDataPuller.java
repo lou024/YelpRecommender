@@ -19,8 +19,8 @@ public class JSONDataPuller {
     
     private static void run(){
 
-        String businessJSON = "./yelp_dataset/business.json";
-        String reviewJSON = "./yelp_dataset/review.json";
+        String businessJSON = "./yelp_dataset/yelp_academic_dataset_business.json";
+        String reviewJSON = "./yelp_dataset/yelp_academic_dataset_review.json";
 
         buildBussinessList(businessJSON);
         addReviewsToBusinesses(reviewJSON);
